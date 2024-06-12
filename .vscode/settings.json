@@ -93,5 +93,6 @@
 },
 "problems.autoReveal": false,
 "problems.decorations.enabled": false,
-"problems.visibility": false
+"problems.visibility": true,
+"git.autofetch": true
 }
